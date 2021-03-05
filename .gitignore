@@ -1,0 +1,10 @@
+.idea
+.well-known
+*.log
+node_modules
+/.htaccess
+/.htpasswd
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
