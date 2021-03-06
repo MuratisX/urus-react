@@ -1,10 +1,12 @@
 .idea
 .well-known
 *.log
-node_modules
+.dist
+.node_modules
 /.htaccess
 /.htpasswd
 /license.txt
 /readme.html
 /sitemap.xml
 /sitemap.xml.gz
+/package-lock.json
