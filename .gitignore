@@ -1,8 +1,8 @@
 .idea
 .well-known
 *.log
-.dist
-.node_modules
+dist
+node_modules
 /.htaccess
 /.htpasswd
 /license.txt
